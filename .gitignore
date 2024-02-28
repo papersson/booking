@@ -1,0 +1,26 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+pkg/
+
+# Test binaries
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (remove the comment below if you're using vendoring)
+# vendor/
+
+# IDE/editor files that may contain sensitive information or personal preferences
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
